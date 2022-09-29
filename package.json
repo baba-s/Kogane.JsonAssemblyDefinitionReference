@@ -1,6 +1,6 @@
 {
-    "name": "com.baba-s.kogane-json-assembly-reference",
-    "displayName": "Kogane Json Assembly Reference",
+    "name": "com.baba-s.kogane-json-assembly-definition-reference",
+    "displayName": "Kogane Json Assembly Definition Reference",
     "version": "1.0.0",
     "unity": "2022.1",
     "author": "baba-s",

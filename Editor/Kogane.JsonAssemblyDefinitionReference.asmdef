@@ -1,5 +1,5 @@
 ﻿{
-    "name": "Kogane.JsonAssemblyReference",
+    "name": "Kogane.JsonAssemblyDefinitionReference",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [

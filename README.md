@@ -1,3 +1,3 @@
-# Kogane Json Assembly Reference
+# Kogane Json Assembly Definition Reference
 
-Assembly Reference（.asmref）の JSON を表すクラス
+Assembly Definition Reference（.asmref）の JSON を表すクラス

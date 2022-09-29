@@ -6,7 +6,7 @@ using System;
 namespace Kogane
 {
     [Serializable]
-    public sealed class JsonAssemblyReference
+    public sealed class JsonAssemblyDefinitionReference
     {
         public string reference = string.Empty;
     }
